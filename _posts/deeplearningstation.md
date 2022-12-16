@@ -11,10 +11,10 @@ categories: Notes-随笔
 
 In order to continue my project (remote contoller for my wifiRobot based on computer vision and sensor fusion), I bought a powerful Desktop PC from HP with the Nvidia Geforce GTX1070 Video Card. It looks quite nice and very easy for maintenance. But I am too old to have interest in playing games. Just use it as a working horse...
 
-![](https://wx4.sinaimg.cn/large/74505a4cgy1frlwtesrlpj22c0340kjm.jpg)
-![](https://wx1.sinaimg.cn/large/74505a4cgy1frlwt4rv50j22c03404qq.jpg)
-![](https://wx2.sinaimg.cn/large/74505a4cgy1frlwu19befj23402c07wj.jpg)
-![](https://wx2.sinaimg.cn/large/74505a4cgy1frlwuctqswj23402c0x6q.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frlwtesrlpj22c0340kjm?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frlwt4rv50j22c03404qq?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frlwu19befj23402c07wj?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frlwuctqswj23402c0x6q?raw=true)
 
 It took a lot of time to figure out the solutions for different issues before making the development enviroment ready.
 
@@ -27,17 +27,17 @@ actually you need to compile the tensorflow source code with the CUDA9.2 configu
 
 I installed both the lastest versions of CUDA and CUDNN. But the TensorRT does not support CUDA9.2 for now. Later I will try to install multi versions of CUDA and try to switch among them.
 
-![](https://wx3.sinaimg.cn/mw1024/74505a4cgy1frmxjykddej23402c0e82.jpg)
-![](https://wx3.sinaimg.cn/mw1024/74505a4cgy1frmxk74fhdj23402c0e82.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frmxjykddej23402c0e82?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frmxk74fhdj23402c0e82?raw=true)
 
 4. The version of Phython is also a something needs to be noticed. It is very important to know under which version of python the tensorflow is installed. And you need to do corresponding python interpreter configuration in the Pycharm IDE when working with tensorflow
-![](https://wx3.sinaimg.cn/mw1024/74505a4cgy1frn6qe1itqj21h80rmagc.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frn6qe1itqj21h80rmagc?raw=true)
 
 
 5. OpenCV is quite easy to install without any issue.
 
 6. Another thing is that when you compile the Darknet Yolo with Debug = 1, you need to add the following lines in the makefile. Unless the make process will not be successful.
-![](https://wx4.sinaimg.cn/mw1024/74505a4cgy1frn6qdjc88j20p30kc413.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frn6qdjc88j20p30kc413?raw=true)
 
 Then I am happy to see the YOLOv3 model can run in more real-time on this PC with maximum 27FPS!
 You can see the Video of testing here:

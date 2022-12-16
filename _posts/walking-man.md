@@ -12,7 +12,7 @@ categories: projects-项目
 
 <meta name="referrer" content="no-referrer" />
 
-![](https://ww2.sinaimg.cn/mw690/74505a4cgw1evhi2mwge5j20hs0dcgmm.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evhi2mwge5j20hs0dcgmm?raw=true)
 
 ## Description:
 
@@ -22,11 +22,11 @@ In the winter holiday of 2007, I cooperated with my friend, Hou, who is from Chi
 <!-- more -->
 
 ## Pictures:
-![](https://ww1.sinaimg.cn/mw690/74505a4cgw1evhi66giljj20hs0dcaaa.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evhi66giljj20hs0dcaaa?raw=true)
 How it is looks like when shutting down the light
 
-![](https://ww2.sinaimg.cn/mw1024/74505a4cgw1evhi2q175oj20hs0dc0uf.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evhi2q175oj20hs0dc0uf?raw=true)
 The 89C52 MCU based LED Matrix controller
 
-![](https://ww1.sinaimg.cn/mw1024/74505a4cgw1evhi2m44kuj20hs0dct9n.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evhi2m44kuj20hs0dct9n?raw=true)
 The **walking man** was under assembling.

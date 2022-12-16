@@ -15,7 +15,7 @@ categories: Notes-随笔
 
 <meta name="referrer" content="no-referrer" />
 
-![](https://ww3.sinaimg.cn/large/74505a4cgw1f1mhjohmbej21b70rcdwl.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f1mhjohmbej21b70rcdwl?raw=true)
 Today I tried to use VisualGDB with Visual Studio 2017 to compile and run my wifi robot C++ code on my beaglebone.
 
 https://github.com/forwardkth/BBRobot
@@ -50,7 +50,7 @@ Or you can write "-lpthread" to Common flags. Both solutions work fine.
 I think that is because this configuration is related to your target environment, not your host machine.
 You can see the screenshot of the configurations below:
 
-![](https://ww3.sinaimg.cn/large/74505a4cgw1f1mhjohmbej21b70rcdwl.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f1mhjohmbej21b70rcdwl?raw=true)
 
 https://ww3.sinaimg.cn/large/74505a4cgw1f1mhjohmbej21b70rcdwl.jpg
 

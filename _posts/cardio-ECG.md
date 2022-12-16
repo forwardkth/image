@@ -13,7 +13,7 @@ categories: projects-项目
 
 <meta name="referrer" content="no-referrer" />
 
-![](https://ww1.sinaimg.cn/mw690/74505a4cgw1evgrf9np3gj20e80ao3zx.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evgrf9np3gj20e80ao3zx?raw=true)
 
 ## Overview:
 
@@ -21,7 +21,7 @@ The basic idea of this project is to develop a kind of ECG monitoring and analys
 
 I together with my team were responsible for the development of the Cardio Device which is based on MSP430experimental board "WASA" and a bluetooth module from "Bluegiga". 
 
-![](https://ww3.sinaimg.cn/mw1024/74505a4cgw1eviq4d5w48j20f30bbabf.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1eviq4d5w48j20f30bbabf?raw=true)
 The data transmiting among Cardio device, PC and mobilephone.
 
 <!-- more -->
@@ -31,10 +31,10 @@ The gateway is a piece of hardware, which is connected to a TV screen (optional 
 
 ## cardio Device: 
 The cardio handheld  device which measures the pulse/ECG of the patient can send the ECG data to other devices via  bluetooth.
-![](https://ww1.sinaimg.cn/mw690/74505a4cgw1evgrdjt1ouj21kw0zpdld.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evgrdjt1ouj21kw0zpdld?raw=true)
 Cardio Device architecture
 
-![](https://ww4.sinaimg.cn/mw1024/74505a4cgw1evhi2qoiicj20go0cidh0.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evhi2qoiicj20go0cidh0?raw=true)
 the cardio device prototype
 
 ## Mobile phone:

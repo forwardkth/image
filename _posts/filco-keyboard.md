@@ -9,7 +9,7 @@ categories: Notes-随笔
 
 <meta name="referrer" content="no-referrer" />
 
-![](https://ww2.sinaimg.cn/large/74505a4cgw1exqqj14xqvj20qo0k0gs9.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1exqqj14xqvj20qo0k0gs9?raw=true)
 Filco Ninja Majestouch-2 Tenkeyless Tactile Action UK Keyboard
 
 I bought this mechanical keyboard from the UK website 'thekeyboardcompany'. I received the package today. It is a very nice programmer keyboard with high quality. I am very satisfied with it. 

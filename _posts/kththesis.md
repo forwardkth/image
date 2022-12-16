@@ -13,7 +13,7 @@ categories: projects-项目
 
 <meta name="referrer" content="no-referrer" />
 
-![](https://wx1.sinaimg.cn/mw1024/74505a4cgy1frlynmzy3hj20n10h8ju4.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frlynmzy3hj20n10h8ju4?raw=true)
 This project is my second master degree thesis work at KTH, Sweden between 2010 and 2011.
 The aim of this thesis project is to develop a novel current sensor probe which is low cost, light weight, and easy to be integrated in power component (compact in size, without complex insulation and relative high safety level). The bandwidth should be from DC to KHz. It should fulfill the requirements of current harmonics measurements of DC transmission system as well as the capacity of direct current measurement with acceptable response time, precision, sensitivity and accuracy.
 
@@ -26,8 +26,8 @@ Therefore there is a need of HV (High Voltage) current sensor that has a wider f
 High current and current harmonics are very critical parameters used for the power quality monitoring, harmonics suppression as well as control and protection function in high voltage direct current transmission system. Rogowski coil is one of the most common current sensors used in power system. But the traditional Rogowski coil is not sensitive to low frequency current. It is impossible to be used for direct current measurement. In recent years, the all fiber OCT (Optical Current Transformer) which is based on the optical Faraday Effect is applied. But it is too expensive and highly complex to be widely deployed in power systems at the present stage. Therefore there is a need of developing a high current sensor with a wider frequency bandwidth as well as the capacity of measuring direct current. Meanwhile this kind of current sensor should include the features like low cost, light weight, and easy to be integrated into the power systems (compact in size, easy installation and relative high safety level).  
 This thesis report presents an approach with the capacity of both high DC current measurement and high AC current measurement by using a novel hybrid current sensor probe which is the combination of the PCB based Rogowski coils, GMR (Giant Magneto Resistance) sensor and the principle HOKA. The Lab experiments have shown a qualified performance. It is capable to capture the current of 220 Amps from DC up to 250 KHz with the sensitivity about 0.002 V/A (DC), acceptable linearity and accuracy within ±1%. 
 This novel hybrid current sensor is very suitable for the direct high current measurement as well as the current harmonics measurement in the DC power transmission systems.
-![](https://wx1.sinaimg.cn/mw1024/74505a4cgy1frlynmjvexj20lv0cwq3q.jpg)
-![](https://wx4.sinaimg.cn/mw1024/74505a4cgy1frlynmjzzhj20mg0aldh6.jpg)
-![](https://wx2.sinaimg.cn/mw1024/74505a4cgy1frlynmr9c8j20mp0fcab9.jpg)
-![](https://wx4.sinaimg.cn/mw1024/74505a4cgy1frlynms18nj20m40fgjsx.jpg)
-![](https://wx2.sinaimg.cn/mw1024/74505a4cgy1frlynmrwlej20la0esdhp.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frlynmjvexj20lv0cwq3q?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frlynmjzzhj20mg0aldh6?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frlynmr9c8j20mp0fcab9?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frlynms18nj20m40fgjsx?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frlynmrwlej20la0esdhp?raw=true)

@@ -29,26 +29,26 @@ Historical updates:
 2018.5  Project moved to Linux platform
 2018.6  Integrate YoloV3 into BBRobot controller project with C++ Wrapper and shared library
         BBRobot controller C++ project built up with Eclipse setup
-![](https://wx1.sinaimg.cn/mw1024/74505a4cgy1fs496rv0zrj21hb0t31kx.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fs496rv0zrj21hb0t31kx?raw=true)
 
 Some tips:
 1.in the makefile for generating the shared lib of Darknet, the nvcc configuration should be the path of your local cuda bin folder.
-![](https://wx4.sinaimg.cn/mw1024/74505a4cgy1fs496vfj4aj212p0ql7bj.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fs496vfj4aj212p0ql7bj?raw=true)
 2. Suggest to copy the shared lib to /usr/lib folder to avoid the "can not find xxxx.so" problem.
-![](https://wx2.sinaimg.cn/mw1024/74505a4cgy1fs496lhc7qj20z90khn1k.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fs496lhc7qj20z90khn1k?raw=true)
 3. The OpenCV lib dependancies should be manually added to the project build configuration in Eclipse.
 4. You can find the Darknet shared lib builder here: https://github.com/forwardkth/DarkLibBuilder
 
 ## Some old Pictures:
-![](https://ww4.sinaimg.cn/mw1024/74505a4cjw1f15bm3c82lj218g0xcqku.jpg)
-![](https://wx4.sinaimg.cn/mw1024/74505a4cgy1fpvirumai6j23402c0e82.jpg)
-![](https://wx2.sinaimg.cn/mw1024/74505a4cgy1fpvish1t10j23402c0kjm.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cjw1f15bm3c82lj218g0xcqku?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fpvirumai6j23402c0e82?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fpvish1t10j23402c0kjm?raw=true)
 ![](https://5b0988e595225.cdn.sohucs.com/images/20170820/f96728dcc26d4eb0a7db9c49acf6756b.gif)
 
 <!-- more -->
-![](https://wx3.sinaimg.cn/mw1024/74505a4cgy1fpviriawz6j21gu0sjaky.jpg)
-![](https://wx1.sinaimg.cn/mw1024/74505a4cgy1fpvis7nq6vj23402c0e82.jpg)
-![](https://wx2.sinaimg.cn/mw1024/74505a4cgy1fpvira0vdvj21hw0sqk1f.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fpviriawz6j21gu0sjaky?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fpvis7nq6vj23402c0e82?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fpvira0vdvj21hw0sqk1f?raw=true)
 
 ## BBRobot project:
 The source code of the Wifi Robot project can be found here: https://github.com/forwardkth/BBRobot
@@ -87,10 +87,10 @@ The picture below shows the visualGDB configuration with VS2017 for cross compli
 https://ww3.sinaimg.cn/large/74505a4cgw1f1mhjohmbej21b70rcdwl.jpg
 
 ------------------------------------------------------------
-![](https://ww2.sinaimg.cn/mw690/74505a4cgw1evho2onxwsj21kw16o7wh.jpg)
-![](https://ww1.sinaimg.cn/mw690/74505a4cgw1evgrdvaux5j21kw16o1if.jpg)
-![](https://ww2.sinaimg.cn/large/74505a4cgw1f7oypkop58j20ku0fmn0o.jpg)
-![](https://ww4.sinaimg.cn/large/74505a4cgw1f7oyqnelgnj20qo0qo79n.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evho2onxwsj21kw16o7wh?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evgrdvaux5j21kw16o1if?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f7oypkop58j20ku0fmn0o?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f7oyqnelgnj20qo0qo79n?raw=true)
 
 The new DEMO video on Youtube:
 https://youtu.be/q4rHsRQ4LsQ
@@ -103,10 +103,10 @@ https://www.youtube.com/v77tkjFmZqY
 
 In order to continue my project (remote contoller for my wifiRobot based on computer vision and sensor fusion), I bought a powerful Desktop PC from HP with the Nvidia Geforce GTX1070 Video Card. It looks quite nice and very easy for maintenance. But I am too old to have interest in playing games. Just use it as a working horse...
 
-![](https://wx4.sinaimg.cn/mw1024/74505a4cgy1frlwtesrlpj22c0340kjm.jpg)
-![](https://wx1.sinaimg.cn/mw1024/74505a4cgy1frlwt4rv50j22c03404qq.jpg)
-![](https://wx2.sinaimg.cn/mw1024/74505a4cgy1frlwu19befj23402c07wj.jpg)
-![](https://wx2.sinaimg.cn/mw1024/74505a4cgy1frlwuctqswj23402c0x6q.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frlwtesrlpj22c0340kjm?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frlwt4rv50j22c03404qq?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frlwu19befj23402c07wj?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frlwuctqswj23402c0x6q?raw=true)
 
 It took a lot of time to figure out the solutions for different issues before making the development enviroment ready.
 
@@ -119,20 +119,20 @@ actually you need to compile the tensorflow source code with the CUDA9.2 configu
 
 I installed both the lastest versions of CUDA and CUDNN. But the TensorRT does not support CUDA9.2 for now. Later I will try to install multi versions of CUDA and try to switch among them.
 
-![](https://wx3.sinaimg.cn/mw1024/74505a4cgy1frmxjykddej23402c0e82.jpg)
-![](https://wx3.sinaimg.cn/mw1024/74505a4cgy1frmxk74fhdj23402c0e82.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frmxjykddej23402c0e82?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frmxk74fhdj23402c0e82?raw=true)
 
 4. The version of Phython is also a something needs to be noticed. It is very important to know under which version of python the tensorflow is installed. And you need to do corresponding python interpreter configuration in the Pycharm IDE when working with tensorflow
-![](https://wx3.sinaimg.cn/mw1024/74505a4cgy1frn6qe1itqj21h80rmagc.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frn6qe1itqj21h80rmagc?raw=true)
 
 
 5. OpenCV is quite easy to install without any issue.
 
 6. Another thing is that when you compile the Darknet Yolo with Debug = 1, you need to add the following lines in the makefile. Unless the make process will not be successful.
-![](https://wx4.sinaimg.cn/mw1024/74505a4cgy1frn6qdjc88j20p30kc413.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frn6qdjc88j20p30kc413?raw=true)
 
 Then I am happy to see the YoloV3 model can run more in real-time on this PC with maximum rate of 14FPS!
-![](https://wx4.sinaimg.cn/mw1024/74505a4cgy1frn0x6dh7zj20qo0qon1g.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1frn0x6dh7zj20qo0qon1g?raw=true)
 
 You can see the Video of testing here:
 

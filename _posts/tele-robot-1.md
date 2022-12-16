@@ -11,7 +11,7 @@ categories: projects-项目
 
 <meta name="referrer" content="no-referrer" />
 
-![](https://ww3.sinaimg.cn/mw690/74505a4cgw1evgreifis4j218g0xcauk.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evgreifis4j218g0xcauk?raw=true)
 
 ## Description:
 
@@ -30,7 +30,7 @@ The whole structure is not difficult to understand. But as we known, more comple
 you can see more **pictures and DEMO videos** by clicking **read more** below :) 
 <!-- more -->
 ## Pictures:
-![](https://ww3.sinaimg.cn/bmiddle/74505a4cgw1eddsn5e4qpj216n68t4qr.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1eddsn5e4qpj216n68t4qr?raw=true)
 
 ## DEMO videos:
 

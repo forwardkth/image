@@ -23,12 +23,13 @@ const markdownImageDown = require('markdown-img-down-site-change'); // 文件模
 //}
 
 // 微博外链：更改一下查找的链接地址和图片的新位置就好了
- let option = {
-     replace_image_url: 'https://wx3.sinaimg.cn/', // 要被替换的图片
-     read_markdown_src: './_posts', // 要查找markdown文件的文件夹地址
-     down_img_src: './weibo', // 下载图片到这个文件夹
-     var_number: 1
- }
+let option = {
+    replace_image_url: 'https://ww4.sinaimg.cn/', // 要被替换的图片
+    read_markdown_src: './_posts', // 要查找markdown文件的文件夹地址
+    down_img_src: './weibo', // 下载图片到这个文件夹
+    var_number: 1,
+    test: false
+}
 
 // markdownImage.updateOption({
 //     new_image_url: 'https://xxx.com/weibo/', // 图片上传的地址
@@ -39,8 +40,17 @@ const markdownImageDown = require('markdown-img-down-site-change'); // 文件模
 const markdownImage = new markdownImageDown(option)
 
 // 下载目标图片链接
-markdownImage.checkDownImg();
+// markdownImage.checkDownImg();
 
 // 上传下载下来的图片文件夹到云端 用户自己操作
 
 
+// 脚本会把以前的外链替换成云端地址+拼接一个图片名
+markdownImage.updateOption({
+    new_image_url: 'https://github.com/forwardkth/image/tree/master/weibo/', // 图片上传的地址
+    add_end: '?raw=true' // github图片地址有后缀 直接进去是仓库
+})
+
+// 替换外链 
+// 把replace_image_url的字符串换成new_image_url字符串
+markdownImage.replaceMarkdown();

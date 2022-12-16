@@ -15,7 +15,7 @@ categories: projects-项目
 <meta name="referrer" content="no-referrer" />
 
 ![](https://www.mysensors.org/uploads/57bd7e180b692ab55e15504f/image/network.png)
-![](https://ww3.sinaimg.cn/mw1024/74505a4cgw1ew98gkmzhnj20k00qogqi.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1ew98gkmzhnj20k00qogqi?raw=true)
 you can see more by clicking **Read more** below :) 
 点击下方按钮阅读文章正文 （基于Mysensors开源项目的家庭无线传感网络 ）
 <!-- more -->
@@ -37,13 +37,13 @@ Most products we can see in the market now is someting like a remote control. I 
 
 Of course, my ideal thinking is limited by our technology. But at least we should stop calling those thing "Smart xxx". Remote control is not smart...
 
-![](https://ww2.sinaimg.cn/mw1024/74505a4cgw1ew98d2kw6hj20qo0k078e.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1ew98d2kw6hj20qo0k078e?raw=true)
 Server(controller) with Arduino nano radio gateway in “Mysensors” wireless sensing network
-![](https://ww4.sinaimg.cn/mw1024/74505a4cgw1ew98ge4sztj20qo0k0tf3.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1ew98ge4sztj20qo0k0tf3?raw=true)
 One of the sensor node in "Mysensors" wireless sensing network
-![](https://ww2.sinaimg.cn/mw1024/74505a4cgw1ew9m56tnspj20xc18gdvm.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1ew9m56tnspj20xc18gdvm?raw=true)
 One of the sensor node with humidity and temperature sensor mounted on the wall
-![](https://ww1.sinaimg.cn/mw1024/74505a4cgw1ewarapj02cj20hs0qomzc.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1ewarapj02cj20hs0qomzc?raw=true)
 Control and Monitoring UI with “OPenhab” running in Beaglebone Black
 
 ## 基于Mysensors开源项目的家庭无线传感网络 （注意不是智能家居）:
@@ -63,11 +63,11 @@ Control and Monitoring UI with “OPenhab” running in Beaglebone Black
 即便是需要人的命令，自然手势，语音控制这些都比一个APP上好多个页面各种数据和按钮调节条要来得正宗也是需要重点突破的技术。 而且系统和节点的部署需要方便快捷，对用户屏蔽专业的设置，这些都是需要解决的问题。
 再扯远点儿，上升到理论，那就是我坚信，好的科技是顺应人的自然状态，而不是改变，所谓的 "科技以人为本"。突然好怀念诺基亚。。。。
 
-![](https://ww2.sinaimg.cn/mw1024/74505a4cgw1ew98d2kw6hj20qo0k078e.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1ew98d2kw6hj20qo0k078e?raw=true)
 Beaglebone black做为交互界面互联网server和传感网络网关（Arduino nano with nRF24L01+）的控制器
-![](https://ww3.sinaimg.cn/mw1024/74505a4cgw1ew98gkmzhnj20k00qogqi.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1ew98gkmzhnj20k00qogqi?raw=true)
 "Mysensors" 无线传感网络单个节点
-![](https://ww3.sinaimg.cn/mw1024/74505a4cgw1ew9m7qszxmj20xc18g4f7.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1ew9m7qszxmj20xc18g4f7?raw=true)
 含有温度湿度传感器的单个网络节点固定在墙上，由含有USB接口的插座供电，功耗非常小
-![](https://ww1.sinaimg.cn/mw1024/74505a4cgw1ewarapj02cj20hs0qomzc.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1ewarapj02cj20hs0qomzc?raw=true)
 在Beaglebone Black中运行的UI界面服务器（Openhab）显示两个房间温湿度监控和历史记录曲线

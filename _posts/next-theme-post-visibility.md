@@ -19,7 +19,7 @@ https://github.com/iissnan/hexo-theme-next/issues/843
   
 定位修改 post_template.render(post, true) 
  
-![](https://ww1.sinaimg.cn/large/74505a4cgw1f3onp6eculj20ds0d70vb.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f3onp6eculj20ds0d70vb?raw=true)
 
 其中修改的是为文章的首页显示添加判断条件
 

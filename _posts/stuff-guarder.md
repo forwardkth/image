@@ -10,11 +10,11 @@ categories: projects-项目
 
 <meta name="referrer" content="no-referrer" />
 
-![](https://ww2.sinaimg.cn/mw690/74505a4cgw1f1pmup9u7fj20go0cidhl.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f1pmup9u7fj20go0cidhl?raw=true)
 Course Project "Stuff guarder" is a simple device that can remind you when your private stuff is moved by others. 
 It also can remind you to get back your bank card after drawing money from a ATM machine.
 
-![](https://ww4.sinaimg.cn/mw690/74505a4cgw1f1pmuexnvsj20go0ciq54.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f1pmuexnvsj20go0ciq54?raw=true)
 
 It is implemented by a self made TI MSP430 experimental board with light sensor and accelemeter sensor. It is easy and simple.
 The main purpose of this project is to learn how to use the sensors data in a smart way even very limited number and type of sensors.

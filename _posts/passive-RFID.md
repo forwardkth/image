@@ -9,7 +9,7 @@ categories: projects-项目
 
 <meta name="referrer" content="no-referrer" />
 
-![](https://ww2.sinaimg.cn/mw1024/74505a4cgw1evhi2sbx8nj20go0cimz4.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evhi2sbx8nj20go0cimz4?raw=true)
 
 ## Description:
 Imaging the situation in a museum, some antiques are put inside a hermetically sealed container. We want to monitor the temperature and moisture inside. But we donot hope to open it. This small device can give us a solution. The device can be put inside the sealed container and capture the temperature and moisture information. We can read the sensor data from outside of the container with a RFID reader without open it. But We know that the passive RFID tags can only send fixed information (ID) when it gets energy from the RFID reader. Then the reader can recognize and identify the specific tag. How can we read the dynamic data from a passive RFID?

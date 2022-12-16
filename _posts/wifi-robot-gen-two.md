@@ -14,13 +14,13 @@ categories: projects-项目
 
 <meta name="referrer" content="no-referrer" />
 
-![](https://ww2.sinaimg.cn/mw690/74505a4cgw1evho2onxwsj21kw16o7wh.jpg)
-![](https://ww4.sinaimg.cn/mw1024/74505a4cjw1f15bm3c82lj218g0xcqku.jpg)
-![](https://wx4.sinaimg.cn/mw1024/74505a4cgy1fpvirumai6j23402c0e82.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evho2onxwsj21kw16o7wh?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cjw1f15bm3c82lj218g0xcqku?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fpvirumai6j23402c0e82?raw=true)
 ## Description:
 
 This is my second generation Tele-operation robot  built since 2015. This robot is based on the open source platform [Beaglebone white](https://beagleboard.org/bone) which running with Debian Linux.
-![](https://ww1.sinaimg.cn/mw690/74505a4cgw1evgrdvaux5j21kw16o1if.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evgrdvaux5j21kw16o1if?raw=true)
 The **Beaglebone** is a credit-card-sized Linux computer that connects to the Internet and runs software such as Android 4.0 and Ubuntu with plenty of I/O and processing power for real-time analysis provided by an AM335x 720MHz ARM® processor. It has 256M DDR2 RAM, 3D graphics accelerator, power management capacity.
 
 All of these above  makes it  an excellent platform  for building sensor based embedded systems and Robotics.
@@ -71,7 +71,7 @@ I can realize more advanced  features for my robot like the machine vision with 
 I will not talk about a lot of basic things here like motion control or networking programming. I prefer to say some my feelings and experience from **system point of view** about this project.
 
 ### Structure Overview
-![](https://ww1.sinaimg.cn/mw690/74505a4cgw1evho2vc9exj21kw16o4qp.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evho2vc9exj21kw16o4qp?raw=true)
 This robot uses Beaglebone white as the local smart brain, TPLINK WR702N as the WIFI module, one power supply and motor driver circuit board, ultra sound sensor and Laser lamp. The Beaglebone use TPLINK WR702N mini router as the wireless networking card to receive the control orders and send the data and video streaming through WIFI. But you should notice that this is not the popular **OpenWR+router+arduio or what** soluction. Why not? I will explain later.
  
 ### Mounting
@@ -86,8 +86,8 @@ In my opinion, Robot means **"the machine like human" but not "the machine waiti
 
 So the Beaglebone is like a computer that you can just use the Ethernet port to connect to the WR702N router then configure the router to the bridge work mode. In this mode, the router works like beaglebone's wifi module. That's good. Everything is original, very stable.
 
-![](https://ww3.sinaimg.cn/mw690/74505a4cgw1evgrdr0lsdj21kw16o4qp.jpg)
-![](https://ww3.sinaimg.cn/mw690/74505a4cgw1evgrdnssl3j21kw16o4qp.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evgrdr0lsdj21kw16o4qp?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evgrdnssl3j21kw16o4qp?raw=true)
 
 ### The remote controller UI on the PC
 
@@ -115,17 +115,17 @@ I just started to work on this project from time to time since 2017. So the code
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y1jZm1aZNGg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](https://wx2.sinaimg.cn/mw1024/74505a4cgy1fpvish1t10j23402c0kjm.jpg)
-![](https://wx3.sinaimg.cn/mw1024/74505a4cgy1fpviriawz6j21gu0sjaky.jpg)
-![](https://wx1.sinaimg.cn/mw1024/74505a4cgy1fpvis7nq6vj23402c0e82.jpg)
-![](https://wx2.sinaimg.cn/mw1024/74505a4cgy1fpvira0vdvj21hw0sqk1f.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fpvish1t10j23402c0kjm?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fpviriawz6j21gu0sjaky?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fpvis7nq6vj23402c0e82?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fpvira0vdvj21hw0sqk1f?raw=true)
 
 ## Pictures:
 
-![](https://ww4.sinaimg.cn/mw690/74505a4cgw1evho2kpw0gj21kw16o4qp.jpg)
-![](https://ww3.sinaimg.cn/mw690/74505a4cgw1evho2aaw0fj21kw16o7wh.jpg)
-![](https://ww4.sinaimg.cn/mw690/74505a4cgw1evho3dathuj21kw16o1kx.jpg)
-![](https://ww2.sinaimg.cn/mw690/74505a4cgw1evho3h7p5jj21kw16otx2.jpg)
-![](https://ww1.sinaimg.cn/mw690/74505a4cgw1evho3kkf90j21kw16o4qp.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evho2kpw0gj21kw16o4qp?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evho2aaw0fj21kw16o7wh?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evho3dathuj21kw16o1kx?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evho3h7p5jj21kw16otx2?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evho3kkf90j21kw16o4qp?raw=true)
 
 

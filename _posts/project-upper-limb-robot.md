@@ -26,10 +26,10 @@ In this condition, one physician only trains one patient at one time, and the tr
 Virtual Reality (VR) is a kind of burgeoning technique. Its characteristic as follow: a virtual world with multiple sensual stimulates which is immersible is created by computer together with sensors; 
 The Patients can interact with the objects in virtual world in natural manners.
 
-![](https://wx2.sinaimg.cn/mw1024/74505a4cgy1fpw4yt6v3vj20pl0djq4m.jpg)
-![](https://wx1.sinaimg.cn/mw1024/74505a4cgy1fpw4yn8r9xj20ns0iajv9.jpg)
-![](https://wx4.sinaimg.cn/mw1024/74505a4cgy1fpw4yrfio4j20oh0i40vx.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fpw4yt6v3vj20pl0djq4m?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fpw4yn8r9xj20ns0iajv9?raw=true)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fpw4yrfio4j20oh0i40vx?raw=true)
 The training modes tests with vitual environment interaction
-![](https://wx4.sinaimg.cn/mw1024/74505a4cgy1fpw4yv5jpjj20p00hpgn4.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fpw4yv5jpjj20p00hpgn4?raw=true)
 The small training game with force feedback
-![](https://wx4.sinaimg.cn/mw1024/74505a4cgy1fpw4yp3rewj20oc0ib428.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgy1fpw4yp3rewj20oc0ib428?raw=true)

@@ -11,7 +11,7 @@ visible: hide
 
 <meta name="referrer" content="no-referrer" />
 
-![](https://ww4.sinaimg.cn/mw690/74505a4cjw9f3qf2o4y78j21kw16ob2a.jpg)
+![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cjw9f3qf2o4y78j21kw16ob2a?raw=true)
 这是我在瑞典住处的后院。两年前从一对70多岁老夫妇手中接收这个房子的时候后院是一片破败的景象，荒草丛生，苔藓遍地。各种高高低低的植物混乱的生长着，墙根一颗瘦弱的玫瑰勉强从草缝间挤出来，点缀出了杂草中的一抹鲜红。遮阳篷还有几处是漏雨的。木台的跳板也需要重新刷桐油了。总之看到眼前的院子我长长的叹了一口气。。。未来工程浩大，无奈当时秋天将近，冬天不远，只能简单补了补顶棚，给木台清洗刷了一遍桐油，算是做出了改变。等到寒冬过去，去年的春天四月我启动了后院的整修计划。虽然这个房子我也并不打算长期居住，但是作为一个园艺爱好者无论如何是无法忍受自己的院子是那么一种状态。
 
 先是设计了一个草图，拿给专业的工程小公司报价，简单的地面和花坛装修竟然要我7万克朗，相当于6万人民币。。。 这让我彻底断了请人搞的念头。于是重新设计图纸，确定了结合日式庭院石子地面设计的折中的方案。
@@ -27,45 +27,45 @@ visible: hide
  整个工程从三月底一直进行到了5月初，不算我的人工消耗，材料成本也就是不到一万块钱。。。跟公司7万的报价相比，顿时感觉心中很满足。
  
  下面这些图都是去年夏天拍的，展示了我种的薰衣草，玫瑰，还有蔬菜之类的细节。当然还有我的好朋友，邻居家的小黄喵 （从我修院子开始就跟我建立了友谊，我从来没有见过性格这么好的猫。。。国内家里那只，你要学学人家）
- ![](https://ww4.sinaimg.cn/mw690/74505a4cgw1f0ces39q51j20qo0k0dlz.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f0ces39q51j20qo0k0dlz?raw=true)
  玫瑰盛开
- ![](https://ww4.sinaimg.cn/mw690/74505a4cgw1evgjonwshgj20k00qogrn.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1evgjonwshgj20k00qogrn?raw=true)
  丑小鸭变天鹅了
- ![](https://ww2.sinaimg.cn/mw690/74505a4cjw1euvpw3bf97j20xc18gdoa.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cjw1euvpw3bf97j20xc18gdoa?raw=true)
  爬墙蔷薇
- ![](https://ww1.sinaimg.cn/mw690/74505a4cjw1euvpw8xkakj20xc18gapk.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cjw1euvpw8xkakj20xc18gapk?raw=true)
  mini玫瑰
- ![](https://ww2.sinaimg.cn/mw690/74505a4cjw1euvpvhbrryj20xc18gqii.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cjw1euvpvhbrryj20xc18gqii?raw=true)
  刚种一年的薰衣草
- ![](https://ww2.sinaimg.cn/mw690/74505a4cjw1euvpv7j9gaj20xc18g187.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cjw1euvpv7j9gaj20xc18g187?raw=true)
  阳光下的薰衣草
- ![](https://ww1.sinaimg.cn/mw690/74505a4cgw1f0cepaaj8tj20k00qo43o.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f0cepaaj8tj20k00qo43o?raw=true)
  在桶里种草莓防止被蜗牛吃
- ![](https://ww1.sinaimg.cn/mw690/74505a4cgw1f0cepfgta8j20k00qowj1.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f0cepfgta8j20k00qowj1?raw=true)
  刚摘下来的草莓
- ![](https://ww3.sinaimg.cn/mw690/74505a4cgw1f0ceoto5jlj20qo0k00xt.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f0ceoto5jlj20qo0k00xt?raw=true)
  收获的蔬菜和草莓
- ![](https://ww4.sinaimg.cn/mw690/74505a4cgw1f0cebpx3gej21kw16onpd.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f0cebpx3gej21kw16onpd?raw=true)
  泰国大叶香菜
- ![](https://ww3.sinaimg.cn/mw690/74505a4cgw1f0ceblpiryj21kw16o1ky.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f0ceblpiryj21kw16o1ky?raw=true)
  种的香菜和韭菜，两种在瑞典不招虫子和蜗牛吃的菜，以后基本只种这两种了
- ![](https://ww3.sinaimg.cn/mw690/74505a4cjw9f3qi0yhvqdj21kw16oe81.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cjw9f3qi0yhvqdj21kw16oe81?raw=true)
  大门前的旱金莲，有高矮两个品种，在瑞典种非常招虫子
- ![](https://ww2.sinaimg.cn/mw690/74505a4cgw1f0ceqzfb2qj20qo0zkgwm.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f0ceqzfb2qj20qo0zkgwm?raw=true)
  接骨木果，哈利波特的魔法杖就是接骨木的
- ![](https://ww2.sinaimg.cn/mw690/74505a4cjw1euvpwi6vgpj20no0hswi9.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cjw1euvpwi6vgpj20no0hswi9?raw=true)
  睡觉的黄喵
- ![](https://ww2.sinaimg.cn/mw690/74505a4cgw1f0i9egaistj20k00qoqaf.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f0i9egaistj20k00qoqaf?raw=true)
  黄喵是一只不纯的挪威森林喵
- ![](https://ww4.sinaimg.cn/mw690/74505a4cgw1f0i9e7piqij20qo0k0tg3.jpg)
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f0i9e7piqij20qo0k0tg3?raw=true)
  舒服的喵
- ![](https://ww4.sinaimg.cn/mw690/74505a4cgw1f0i9ep10jij20k00qo11g.jpg) 
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f0i9ep10jij20k00qo11g?raw=true) 
  飘逸的喵
- ![](https://ww2.sinaimg.cn/mw690/74505a4cgw1f0cerm30t7j20qo0zk125.jpg) 
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f0cerm30t7j20qo0zk125?raw=true) 
  蓝莓
- ![](https://ww2.sinaimg.cn/mw690/74505a4cgw1f0cerdlupkj20qo0zkgvs.jpg) 
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f0cerdlupkj20qo0zkgvs?raw=true) 
  蓝莓
- ![](https://ww4.sinaimg.cn/mw690/74505a4cgw1f0ceqp95bnj20zk0qowp4.jpg) 
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f0ceqp95bnj20zk0qowp4?raw=true) 
  洗蓝莓
- ![](https://ww4.sinaimg.cn/mw690/74505a4cgw1f0cerxvjfyj20qo0zkqbh.jpg) 
+ ![](https://github.com/forwardkth/image/tree/master/weibo/74505a4cgw1f0cerxvjfyj20qo0zkqbh?raw=true) 
  蓝莓派
