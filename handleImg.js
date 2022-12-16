@@ -47,8 +47,8 @@ const markdownImage = new markdownImageDown(option)
 
 // 脚本会把以前的外链替换成云端地址+拼接一个图片名
 markdownImage.updateOption({
-    new_image_url: 'https://github.com/forwardkth/image/tree/master/weibo/', // 图片上传的地址
-    add_end: '?raw=true' // github图片地址有后缀 直接进去是仓库
+    new_image_url: 'https://github.com/forwardkth/image/blob/master/weibo/', // 图片上传的地址
+    add_end: '.jpg?raw=true' // github图片地址有后缀 直接进去是仓库
 })
 
 // 替换外链 
